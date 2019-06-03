@@ -22,38 +22,23 @@ toc:
 
 # Footer Settings
 # ---------------
-since: 2017
+since: 2019
 
 links:
   enable: true
   data:
     -
-      url: https://github.com/fan-lv
+      url: https://github.com/MrhaoHK
       text: GitHub
     -
-      url: mailto:15757856604@163.com
+      url: mailto:mrhaohk@mrhao.xyz
       text: E-Mail
     -
-      url: tencent://message/?uin=1019593584&Site=&Menu=yes
+      url: tencent://message/?uin=2859676251&Site=&Menu=yes
       text: QQ
 
 
-# busuanzi count for PV / UV in site
-busuanzi:
-  # count values only if the other configs are false
-  enable: true
-  # custom uv span for the whole site
-  site_uv: true
-  site_uv_header: <i class="fas fa-user"></i>
-  site_uv_footer:
-  # custom pv span for the whole site
-  site_pv: true
-  site_pv_header: <i class="fas fa-eye"></i>
-  site_pv_footer:
-  # custom pv span for one page only
-  page_pv: true
-  page_pv_header: <i class="fas fa-file-o"></i>
-  page_pv_footer:
+
 
 # stylesheets loaded in the <head>
 stylesheets:

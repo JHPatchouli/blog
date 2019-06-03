@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Mrhao Blog
 subtitle:
 description:
 keywords:
-author: John Doe
+author: Mrhao
 language:
 timezone:
 
@@ -78,4 +78,6 @@ theme: Fan
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repository: git@github.com:MrhaoHK/blog.git
+  branch: master
