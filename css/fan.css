@@ -10009,11 +10009,13 @@ table {
   border-spacing: 0;
 }
 .logo {
-		width: 5.5rem;
-		height: 5.5rem;
+		width:  200px;
+		height: 200px;
 		line-height: 5.5rem;
 		border: solid 1px #ffffff;
 		border-radius: 100%;
+		text-align: right;
+		margin: 0 auto;
 }
 .logo .icon:before {
 			font-size: 2rem;
