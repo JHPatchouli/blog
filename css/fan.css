@@ -10018,3 +10018,11 @@ table {
 .logo .icon:before {
 			font-size: 2rem;
 }
+.logoimg{
+
+            width: auto;
+            height: auto;
+            max-width: 100%;
+            max-height: 100%;
+
+}

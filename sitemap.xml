@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://git.mrhao.xyz/blog/2019/07/24/%E4%B8%80%E4%B8%AA%E8%81%9A%E5%90%88%E5%85%A8%E7%BD%91%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/</loc>
+    <loc>https://git.mrhao.xyz/blog/about/index.html</loc>
     
-    <lastmod>2019-09-19T12:44:47.482Z</lastmod>
+    <lastmod>2019-09-25T16:01:51.549Z</lastmod>
     
   </url>
   
@@ -16,14 +16,7 @@
   </url>
   
   <url>
-    <loc>https://git.mrhao.xyz/blog/about/index.html</loc>
-    
-    <lastmod>2019-09-19T12:44:47.482Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://git.mrhao.xyz/blog/tags/index.html</loc>
+    <loc>https://git.mrhao.xyz/blog/2019/07/24/%E4%B8%80%E4%B8%AA%E8%81%9A%E5%90%88%E5%85%A8%E7%BD%91%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/</loc>
     
     <lastmod>2019-09-19T12:44:47.482Z</lastmod>
     
@@ -37,16 +30,16 @@
   </url>
   
   <url>
-    <loc>https://git.mrhao.xyz/blog/2019/06/05/OhMyzsh%E7%BE%8E%E5%8C%96%E4%BD%A0%E7%9A%84Shell/</loc>
+    <loc>https://git.mrhao.xyz/blog/tags/index.html</loc>
     
-    <lastmod>2019-09-19T12:44:47.467Z</lastmod>
+    <lastmod>2019-09-19T12:44:47.482Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://git.mrhao.xyz/blog/2019/07/22/%E6%99%9A%E4%B8%8A%E5%A5%BD%EF%BC%8C%E6%A2%A6%E4%B8%AD%E4%BA%BA/</loc>
+    <loc>https://git.mrhao.xyz/blog/2019/06/05/OhMyzsh%E7%BE%8E%E5%8C%96%E4%BD%A0%E7%9A%84Shell/</loc>
     
-    <lastmod>2019-09-19T11:06:54.731Z</lastmod>
+    <lastmod>2019-09-19T12:44:47.467Z</lastmod>
     
   </url>
   
