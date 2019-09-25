@@ -10009,9 +10009,9 @@ table {
   border-spacing: 0;
 }
 .logo {
-		width:  200px;
-		height: 200px;
-		line-height: 5.5rem;
+		width:  12.5em;
+		height: 12.5em;
+		line-height: 12.5em;
 		border: solid 1px #ffffff;
 		border-radius: 100%;
 		text-align: right;
