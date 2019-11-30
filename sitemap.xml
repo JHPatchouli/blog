@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://git.mrhao.xyz/blog/tags/index.html</loc>
+    <loc>https://git.mrhao.xyz/blog/about/index.html</loc>
     
-    <lastmod>2019-11-30T09:25:15.971Z</lastmod>
+    <lastmod>2019-11-30T17:17:38.054Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://git.mrhao.xyz/blog/about/index.html</loc>
+    <loc>https://git.mrhao.xyz/blog/links/index.html</loc>
     
-    <lastmod>2019-11-30T09:25:15.970Z</lastmod>
+    <lastmod>2019-11-30T15:19:16.213Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://git.mrhao.xyz/blog/tags/index.html</loc>
+    
+    <lastmod>2019-11-30T09:25:15.971Z</lastmod>
     
   </url>
   
