@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://git.mrhao.xyz/blog/links/index.html</loc>
+    
+    <lastmod>2020-02-12T02:17:59.752Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://git.mrhao.xyz/blog/about/index.html</loc>
+    
+    <lastmod>2020-02-12T02:17:42.982Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://git.mrhao.xyz/blog/2019/12/31/%E8%B5%84%E6%BA%90%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%80%E9%80%9A/</loc>
     
     <lastmod>2019-12-30T22:16:01.414Z</lastmod>
@@ -44,28 +58,14 @@
   </url>
   
   <url>
-    <loc>https://git.mrhao.xyz/blog/links/index.html</loc>
-    
-    <lastmod>2019-12-02T14:08:46.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://git.mrhao.xyz/blog/about/index.html</loc>
-    
-    <lastmod>2019-12-02T13:59:46.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://git.mrhao.xyz/blog/tags/index.html</loc>
+    <loc>https://git.mrhao.xyz/blog/categories/index.html</loc>
     
     <lastmod>2019-12-02T13:50:44.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://git.mrhao.xyz/blog/categories/index.html</loc>
+    <loc>https://git.mrhao.xyz/blog/tags/index.html</loc>
     
     <lastmod>2019-12-02T13:50:44.000Z</lastmod>
     
