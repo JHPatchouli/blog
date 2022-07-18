@@ -6,7 +6,7 @@
     this.h = 0; // 画布高
     this.speed = 40; // 绘制速度
     this.lineData = []; // 绘制数据
-    this.maxHeight = 325; // 波动幅度
+    this.maxHeight = 300; // 波动幅度
     this.active = 0; // 激活状态
     this.heartR = 10; // 心形半径
     this.dt = 10; // 周期值
