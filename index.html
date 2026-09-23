@@ -1,15 +1,25 @@
+<!DOCTYPE html>
 <html>
 
 <head>
 	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+	<meta name="baidu-site-verification" content="b9lOcChmbf">
 	<title>Maintenance page</title>
 	<style>
+		* { box-sizing: border-box; }
+
 		body {
 			background-color: #080913;
 			display: flex;
 			justify-content: center;
 			align-items: center;
 			flex-direction: column;
+			margin: 0;
+			padding: 2vh 0;
+			min-height: 100vh;
+			overflow: hidden;
+			font-family: -apple-system, "Segoe UI", "Microsoft YaHei", sans-serif;
 		}
 
 		.hi {
@@ -18,17 +28,19 @@
 		}
 
 		.hi h1 {
-			font-size: 5em;
+			font-size: clamp(1.6rem, 5vw, 3.4rem);
 			color: #FFFFFF;
 			text-shadow: 0px 0px 15px #B88;
+			margin: 0 0 2.5vh 0;
+			text-align: center;
 		}
 
 		.hi h2 {
-			font-size: 3em;
+			font-size: clamp(1rem, 2.4vw, 1.7rem);
 			color: #FFFFFF;
 			text-shadow: 0px 0px 15px #B88;
-			margin-bottom: 0px;
-			margin-top: 4%;
+			margin: 1.2vh 0;
+			white-space: nowrap;
 		}
 
 		.chat {
@@ -36,45 +48,42 @@
 			justify-content: center;
 			border: solid 5px #0f0f8d;
 			box-shadow: 0px 0px 20px #7eb3e9;
-			width: 70%;
-			height: 70%;
+			width: min(70%, 1100px);
+			height: 58vh;
 			flex-direction: column;
 		}
 
 		.chatin {
 			display: flex;
 			justify-content: center;
-			/* border: solid 5px #0f0f8d;
-			box-shadow: 0px 0px 20px #7eb3e9; */
 			width: 100%;
-			height: 80%;
+			flex: 1 1 0;
+			min-height: 0;
 		}
 
 		.charone {
 			display: flex;
 			justify-content: flex-start;
+			align-items: flex-start;
 			width: 100%;
-			height: auto;
 		}
 
 		.chartow {
 			display: flex;
 			justify-content: flex-end;
-			width: 100%;
-			height: auto;
 			align-items: flex-end;
+			width: 100%;
 		}
 
-		.charone div {
-			width: 2%;
-			background: rgb(255, 255, 255);
-			box-shadow: 0px 0px 2px #000000;
-		}
-
+		.charone div,
 		.chartow div {
 			width: 2%;
 			background: rgb(255, 255, 255);
 			box-shadow: 0px 0px 2px #000000;
+		}
+
+		@media (max-width: 768px) {
+			.chat { width: 92%; height: 50vh; }
 		}
 	</style>
 	<script src="js/jquery.min.js"></script>
